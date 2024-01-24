@@ -35,7 +35,7 @@ var player='<h2>Lists of Users</h2>';
                       <div>City    : ${user.address.city}</div>
                       <div>Zipcode : ${user.address.zipcode}</div>
                      </div>`
-```
+```}
 
 ![](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/contact-list-js-2.png)
 
